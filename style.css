@@ -12,14 +12,8 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
 	width: 998px;
 	margin: 0px auto;
 }
-.page {
+.page, .header {
 	width: 998px;
-	float: left;
-}
-
-.header {
-	width: 998px;
-	height: 45px;
 	float: left;
 }
 
