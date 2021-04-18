@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
 	font-size: 12px;
 	text-decoration: none;
 	color: #000000;
-	background-image: url(bullet.jpeg);
+	background-image: url(../bullet.jpeg);
 	background-repeat: no-repeat;
 	background-position: left center;
 	text-align: left;
