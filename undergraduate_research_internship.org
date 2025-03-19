@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       FC415AF6-EEFF-4BC3-9137-588DDF1B068F
+:END:
+#+title: Undergraduate Research Internship
+#+SETUPFILE: /Users/meesueyoo/Dropbox/newbiemacs/nbm-user-settings/org-themes/src/simple_inline/simple_inline.theme
+* Goal of the program
+ Generating functions are a powerful tool in combinatorics, providing a bridge between discrete structures and analytic methods. Here, we explore how generating functions encode sequences, allowing us to solve recurrence relations, count combinatorial objects, and analyze asymptotic behavior. Topics include ordinary and exponential generating functions, transformations and operations on generating functions, applications to counting problems, and connections to probability and number theory. 
+
+* Timetable  
+
+We meet on Colloquium-free Thursdays. 
+
+| Date   | Chapter | Contents                                                              | Speaker |
+|--------+---------+-----------------------------------------------------------------------+---------|
+| 3/20   | Chap 1  | Introductory ideas and examples                                       |         |
+|        |         |                                                                       |         |
+| 4/3    | Chap 2  | 2.1 Formal power series                                               |         |
+|        |         | 2.2 The calculus of formal ordinary power series generating functions |         |
+| 4/17   |         | 2.3 The calculus of formal exponential generating functions           |         |
+|        |         | 2.4 Power series, analytic theory                                     |         |
+|        |         | 2.5 Some useful power series                                          |         |
+|        |         |                                                                       |         |
+| 5/2 (Fri) | Chap 3  | 3.2 Definitions and a question                                        |         |
+|        |         | 3.3 Examples of exponential families                                  |         |
+| 5/15   |         | 3.4 The main counting theorems                                        |         |
+|        |         | 3.5 Permutations and their cycles                                     |         |
+|        |         | 3.6 Set partitions                                                    |         |
+| 5/29  |         | 3.7 A subclass of permutations                                        |         |
+|        |         | 3.8 Involutions, etc.                                                 |         |
+|        |         | 3.9 2-regular graphs                                                  |         |
+| 6/5    |         | 3.10 Counting connected graphs                                        |         |
+|        |         | 3.11 Counting labeled bipartite graphs                                |         |
+|        |         | 3.12 Counting labeled trees                                           |         |
+|        |         |                                                                       |         |
+| 6/19   | Chap 4  | 4.2 A generatingfunctionological view of the sieve method             |         |
+|        |         | 4.3 The ‘Snake Oil’ method for easier combinatorial identities        |         |
+|        |         | 4.5 Generating functions and unimodality, convexity, etc.             |         |
+|        |         |                                                                       |         |
+|        | Chap 5  | 5.1 The Lagrange Inversion Formula                                    |         |
+
+* References 
+** Herbert S. Wilf, 'Generatingfunctionology'
+[[https://www2.math.upenn.edu/~wilf/gfology2.pdf][Link to the book]]
+** "The case of the strange binomial identities of professor Moriarty", by H. W. Gould
+[[https://meesue.github.io/moriartyid.pdf][Link to the file]]
