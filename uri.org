@@ -10,33 +10,33 @@
 
 We meet on Colloquium-free Thursdays. 
 
-| Date   | Chapter | Contents                                                              | Speaker |
-|--------+---------+-----------------------------------------------------------------------+---------|
-| 3/20   | Chap 1  | Introductory ideas and examples                                       |         |
-|        |         |                                                                       |         |
-| 4/3    | Chap 2  | 2.1 Formal power series                                               |         |
-|        |         | 2.2 The calculus of formal ordinary power series generating functions |         |
-| 4/17   |         | 2.3 The calculus of formal exponential generating functions           |         |
-|        |         | 2.4 Power series, analytic theory                                     |         |
-|        |         | 2.5 Some useful power series                                          |         |
-|        |         |                                                                       |         |
+| Date      | Chapter | Contents                                                              | Speaker |
+|-----------+---------+-----------------------------------------------------------------------+---------|
+| 3/20      | Chap 1  | Introductory ideas and examples                                       |         |
+|           |         |                                                                       |         |
+| 4/3       | Chap 2  | 2.1 Formal power series                                               | 여승현  |
+|           |         | 2.2 The calculus of formal ordinary power series generating functions |         |
+| 4/17      |         | 2.3 The calculus of formal exponential generating functions           | 양정윤  |
+|           |         | 2.4 Power series, analytic theory                                     |         |
+|           |         | 2.5 Some useful power series                                          |         |
+|           |         |                                                                       |         |
 | 5/2 (Fri) | Chap 3  | 3.2 Definitions and a question                                        |         |
-|        |         | 3.3 Examples of exponential families                                  |         |
-| 5/15   |         | 3.4 The main counting theorems                                        |         |
-|        |         | 3.5 Permutations and their cycles                                     |         |
-|        |         | 3.6 Set partitions                                                    |         |
-| 5/29  |         | 3.7 A subclass of permutations                                        |         |
-|        |         | 3.8 Involutions, etc.                                                 |         |
-|        |         | 3.9 2-regular graphs                                                  |         |
-| 6/5    |         | 3.10 Counting connected graphs                                        |         |
-|        |         | 3.11 Counting labeled bipartite graphs                                |         |
-|        |         | 3.12 Counting labeled trees                                           |         |
-|        |         |                                                                       |         |
-| 6/19   | Chap 4  | 4.2 A generatingfunctionological view of the sieve method             |         |
-|        |         | 4.3 The ‘Snake Oil’ method for easier combinatorial identities        |         |
-|        |         | 4.5 Generating functions and unimodality, convexity, etc.             |         |
-|        |         |                                                                       |         |
-|        | Chap 5  | 5.1 The Lagrange Inversion Formula                                    |         |
+|           |         | 3.3 Examples of exponential families                                  |         |
+| 5/15      |         | 3.4 The main counting theorems                                        |         |
+|           |         | 3.5 Permutations and their cycles                                     |         |
+|           |         | 3.6 Set partitions                                                    |         |
+| 5/29      |         | 3.7 A subclass of permutations                                        |         |
+|           |         | 3.8 Involutions, etc.                                                 |         |
+|           |         | 3.9 2-regular graphs                                                  |         |
+| 6/5       |         | 3.10 Counting connected graphs                                        |         |
+|           |         | 3.11 Counting labeled bipartite graphs                                |         |
+|           |         | 3.12 Counting labeled trees                                           |         |
+|           |         |                                                                       |         |
+| 6/19      | Chap 4  | 4.2 A generatingfunctionological view of the sieve method             |         |
+|           |         | 4.3 The ‘Snake Oil’ method for easier combinatorial identities        |         |
+|           |         | 4.5 Generating functions and unimodality, convexity, etc.             |         |
+|           |         |                                                                       |         |
+|           | Chap 5  | 5.1 The Lagrange Inversion Formula                                    |         |
 
 * References 
 ** Herbert S. Wilf, 'Generatingfunctionology'
