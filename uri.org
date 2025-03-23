@@ -12,9 +12,9 @@ We meet on Colloquium-free Thursdays.
 
 | Date      | Chapter | Contents                                                              | Speaker |
 |-----------+---------+-----------------------------------------------------------------------+---------|
-| 3/20      | Chap 1  | Introductory ideas and examples                                       |         |
+| 3/20      | Chap 1  | +Introductory ideas and examples+                                     |         |
 |           |         |                                                                       |         |
-| 4/3       | Chap 2  | 2.1 Formal power series                                               | 여승현  |
+| 4/3       | Chap 2  | 2.1 Formal power series                                              | 여승현  |
 |           |         | 2.2 The calculus of formal ordinary power series generating functions |         |
 | 4/17      |         | 2.3 The calculus of formal exponential generating functions           | 양정윤  |
 |           |         | 2.4 Power series, analytic theory                                     |         |
