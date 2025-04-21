@@ -17,20 +17,20 @@ We meet on Colloquium-free Thursdays.
 | 4/3       | Chap 2  | +2.1 Formal power series+                                               | 여승현  |
 |           |         | +2.2 The calculus of formal ordinary power series generating functions+ |         |
 |           |         |                                                                         |         |
-| 4/18 @2pm |         | 2.3 The calculus of formal exponential generating functions             | 양정윤  |
-|           |         | 2.4 Power series, analytic theory                                       |         |
-|           |         | 2.5 Some useful power series                                            |         |
+| 4/18 @2pm |         | +2.3 The calculus of formal exponential generating functions+           | 양정윤  |
+|           |         | +2.4 Power series, analytic theory+                                     |         |
+|           |         | +2.5 Some useful power series+                                          |         |
 |           |         |                                                                         |         |
 | 5/2 (Fri) | Chap 3  | 3.2 Definitions and a question                                          |         |
 |           |         | 3.3 Examples of exponential families                                    |         |
 |           |         | 3.4 The main counting theorems                                          |         |
 |           |         |                                                                         |         |
-| 5/15      |         | 3.5 Permutations and their cycles                                       |         |
+| 5/15      |         | 3.5 Permutations and their cycles                                       | 여승현  |
 |           |         | 3.6 Set partitions                                                      |         |
 |           |         | 3.7 A subclass of permutations                                          |         |
 |           |         | 3.8 Involutions, etc.                                                   |         |
 |           |         |                                                                         |         |
-| 5/29      |         | 3.9 2-regular graphs                                                    |         |
+| 5/29      |         | 3.9 2-regular graphs                                                    | 양정윤  |
 |           |         | 3.10 Counting connected graphs                                          |         |
 |           |         | 3.11 Counting labeled bipartite graphs                                  |         |
 |           |         | 3.12 Counting labeled trees                                             |         |
