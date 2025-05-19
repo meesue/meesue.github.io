@@ -25,10 +25,10 @@ We meet on Colloquium-free Thursdays.
 |           |         | +3.3 Examples of exponential families+                                  |         |
 |           |         | +3.4 The main counting theorems+                                        |         |
 |           |         |                                                                         |         |
-| 5/15      |         | 3.5 Permutations and their cycles                                       | 여승현  |
-|           |         | 3.6 Set partitions                                                      |         |
-|           |         | 3.7 A subclass of permutations                                          |         |
-|           |         | 3.8 Involutions, etc.                                                   |         |
+| 5/15      |         | +3.5 Permutations and their cycles+                                     | 여승현  |
+|           |         | +3.6 Set partitions+                                                    |         |
+|           |         | +3.7 A subclass of permutations+                                        |         |
+|           |         | +3.8 Involutions, etc.+                                                 |         |
 |           |         |                                                                         |         |
 | 5/29      |         | 3.9 2-regular graphs                                                    | 양정윤  |
 |           |         | 3.10 Counting connected graphs                                          |         |
